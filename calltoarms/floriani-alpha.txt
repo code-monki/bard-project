@@ -1,0 +1,103 @@
+Floriani Alpha-Class Gunboat
+by  "Snapping Turtle" <meancooter@yahoo.com>
+ 
+The Floriani Alpha-Class Gunboat  is part of a series of similar, yet
+complementary 300 ton gunboats produced for the Floriani navy. These craft
+are not intended to operate singly, but as part of an balanced task force.
+
+As a class, these gunboats generally sacrifice weaponry and endurance to
+high speed and heavy armor. This is consistent with the initial Floriani
+design concept which was to use gunboats to break through opposing lines of
+fighters in order to bring overwhelming force to bear on the escort vessels
+of the enemy. They are strictly creatures of space, as they can only operate
+from orbital facilities or larger carrier craft.
+
+It is proposed that the Regency purchase several of these gunboat
+flotillasin order to test their suitability use as system defense squadrons.
+Initial evaluations indicate that the synergistic interaction of the
+different variants which comprise such squadrons produces a defensive value
+considerably exceeding their relative cost. Purchase of such foreign built
+systems will also alleviate some of the strain on Regency shipyards in the
+current (1140) crisis
+
+The main armament of this craft is a forward-firing spinal particle
+accelerator. It also has two missile barbettes mounted port and starboard
+with six missiles each, a dorsally mounted 180Mj gravitically focussed laser
+turret, and a ventrally mounted sandcaster turret
+
+Description of the ship
+Floriani Alpha-Class Gunboat
+
+General Data
+Displacement: 300 tons
+Hull Armor: 335
+Length: 60.33 meters
+Volume: 4,200 m3
+Price: 216.53 MCr
+Target Size: S
+Configuration: Streamlined Cone (3.7:1)
+Tech Level: 15
+Mass (Loaded/Unloaded): 5,087.5 / 4,957.8
+
+Engineering Data
+Power Plant: 2 GW Fusion Power Plant, 1 year duration (199.8 m3 fuel)
+Jump Performance: None
+G-Rating: 6G HEPlaR (254.37 MW/G)
+G-Turns: 52, 31.8 m3 fuel each
+Maint: 316
+
+Electronics
+Computer: TL-15 Fibre-optic computer (1.1 MW), TL-15 Fibre-optic computer
+(1.1 MW)
+Commo: Laser (1000 AU; 0.3 MW), 3xMaser (1000 AU; 0.6 MW), Radio (1 hex; 1
+MW)
+Avionics:
+Sensors: AEMS (1 hex; 6 MW), PEMS (3 hex; 0.06 MW), Ladar (10 hex; 0.6 MW),
+ECM/ECCM: 900 sensor decoys (300 Laser, 300 AEMS, 300 PEMS), EM Masking (4.2
+MW)
+Controls: Bridge with 5 bridge workstations, 13 normal workstations, fire
+control center (2 workstations), Standard Automation
+
+Armament
+Offensive: TL-15 180-MJ Laser Turret (Loc:0-Arcs:0;200 MW;1 crew) 2xTL-15
+Missile Barbette (Loc:0-Arcs:0;0 MW;No crew)TL-15 900 MJ Particle
+Accelerator (Loc:0-Arcs:0;250 MW;1 crew) TL-xx Sand Caster (Loc:0-Arcs:0;1
+MW;1 crew)
+Defensive:
+Master Fire Directors: 2xTL-15 (6 Diff Mods; 10 hex; Msl 10 hex; 1.86 MW; 1
+crew)
+
+180-MJ Laser Turret (short)10:1/11-34; (medium) 20:1/11-34; (Long)
+40:1/11-34; (extreme) 80:1/11-34
+
+900-MJ PAWS: (short) 10:150; (medium) 20:150; (Long) 40:150; (extreme)
+80:150. Can be operated -2 Diff Mods at 250 Mw
+
+Accommodations:
+Extended Life Support (0.11 MW)
+Gravitic Compensators (2.63 MW)
+Grav Compensation: 6 G.
+Crew: 23 (1xManeuver, 1xElectronics, 13xEngineer, 5xGunnery, 3xCommand)
+Crew Accommodations: 13xSmall Stateroom (0.5 kW)
+
+Cargo: None
+Small Craft and Launch Facilities: None
+Air Locks: 3
+
+Notes
+Total Fuel Tankage: 1,853.2 m3 (132.4 tons).
+Fuel scoops (10% of ship surface), fills tanks in 1.1 hours.
+
+Crew requirements are calculated by using 'Original FFS' crew model.
+2.2 MW power shortfall.
+
+Damage Tables:
+?
+
+_________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: tne-rces-unsubscribe@silent-tower.org
+For additional commands, e-mail: tne-rces-help@silent-tower.org

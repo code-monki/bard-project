@@ -1,0 +1,187 @@
+ 
+
+Banyihmihlzeh Class Armored Assault Shuttle-TL16
+ 
+ by Yves SIMON <yves.simon6@free.fr>
+
+
+Here is my second ship for call to arms. This is a assault shuttle designed
+to carry battle-dressed marines inside an enemy ship. I will also post the
+TL-15 version. This ship is not designed to enter a atmosphere. So it should
+not be working on it's own...
+
+-----
+Built by Nyolenambih Inc. in it's shipyards on Darrian (0627 Spinward
+Marches), the Banyihmihlzeh is one of the most resistant and reliable ship
+built by this company, designed to survive laser turret hits before
+unloading its complement of 30 Battle-Dressed marines.
+
+This ship is named after a small fish native from Zamine (0421 Spinward
+Marches). This small Piranha like fish, kill it prey by latching on it and
+injecting acidic juices.
+
+Encased under 10cm of Bonded Super Dense plating, this ship is capable of
+surviving a direct hit from a 140 Mj laser hit without any damages. It is
+also fitted with an EMM Masker system and two 180,000 km EMS Jammers. Along
+with it's 6G of accelleration and more than 60 G-Turns of reaction-mass,
+this ensure that the ship will be able to close on it's opponent.
+
+Once near its opponent (within 1km), the three Magnetic Grapples can be
+fired on the ennemy and the ship towed against it's opponent hull. Once
+withing 100 meters from the target, three 350 Mj Fusion Guns are used to
+punch a hole in the hull.
+
+For it's defense, the ship rely on a 180 Mj Laser Turret and a SandCaster
+Turret. Most of ship's important systems have a backup: AEMS, PEMS, PEMS
+antenna, etc. It was clear that the best possible sensors would be used in
+this ship on the active side.
+
+Unfortunatelly all those systems means that the crew accommodation can be
+considered as cramped. Ship's crew have double-occupancy smal staterooms,
+while the marines are accomodated in bunks. Although a sick bay and a medic
+are included to treat casualties during and after boarding actions, crew
+moral will certainly be low and should be rotated.
+
+A downgraded TL:F version is also available to be built in other shipyards
+in the regency.
+
+
+
+Banyihmihlzeh Armored Assault Shuttle
+
+General Data
+
+ Displacement: 200 tons                                         Hull Armor:
+280
+ Length: 34 meters                                                 Volume:
+2800 m3
+ Price:145.16 MCr                                                Target
+Size: S
+ Configuration: USL Cylinder                                 Tech Level: 16
+ Mass (Loaded/Unloaded):2386.8 / 2268.0
+
+
+
+Engineering Data
+
+     Power Plant: 841 MW Fusion Power Plant, 1 year duration (84.1 m3 fuel)
+     Jump Performance: None
+     Jump Fuel: 0 m3
+     G-Rating: 6G HEPlaR (119.3 MW/G)
+     G-Turns: 65, 14.9 m3 fuel each
+     Maint: 75
+
+Electronics
+
+     Computer: 2xTL-16 Fibre-optic computer (1.2 MW),
+     Commo: 2xLaser (10 hex; 0.6 MW), 2xMaser (10 hex; 0.3 MW), 2xRadio
+(1000AU; 20 MW)
+     Avionics: None
+     Sensors: 2xAEMS (10 hex; 15 MW), PEMS Fixed array (3 hex; 0.08 MW),
+PEMS Antenna, 32m2 Fixed, Ladar (10 hex; 0.4MW)
+     ECM/ECCM:2xEMS Jammer (6 hex;16 MW), EM Masking (2.8 MW)
+     Controls: Bridge with 11 bridge workstations, 4 normal workstations
+
+Armament
+
+     Offensive:3x350 Mj Fusion Guns (0 MW; 1 crew; Arc 1)
+     1x TL-16 SandCaster Turret (1.0 MW; 0 crew; Arcs 1,2 & 3)
+     1x TL-16 180 Mj Laser Turret (50 MW; 0 crew; Arcs 1,2,3 & 4)
+     Defensive:None
+     Master Fire Directors: 2xTL-16 (6 Diff Mods; 10 hex; Msl 10 hex; 1.11
+MW; 1 crew)
+      Name                            Short
+Medium                Long                Extreme
+      350Mj Fusion Gun         17.5km-430     35km-430
+70km-215       140km-54
+      180-Mj Laser Turret      10:1/11-34       20:1/11-34
+40:1/11-34      80:1/11-34
+
+
+     Sandcaster Turret: 50 cannisters; 2D10X5 Beam Reduction
+
+Accommodations
+
+     Life Support: Extended (0.56 MW)
+     Gravitic Compensation: 7Gs (14 MW)
+     Crew:46 (1xManeuver, 2xElectronics, 4xEngineer, 2xGunnery, 6xCommand,
+30xMarines, 1xMedic)
+     Crew Accommodations: 8xSmall Stateroom (0.5 kW); 30 Bunks (0 kW)
+     Passenger Accommodation: None
+     Cargo: 45 m3 1 Small Cargo Hatch
+     Small Craft and Launch Facilities: None
+     Air Locks: 2
+
+Notes
+
+Total Fuel Tankage: 1053.5 m3 (73.7 tons)
+Only 1 Radio & 1 Maser are powered during combat,
+All Laser Comm are powered during combat.
+Ship's lockers hold 30 Battle-Dress and all required weaponry.
+
+Damage Tables
+
+ Area            Surface Hit                    Internal Explosion
+ 1                 AL 1                             Fusion Gun 1-7/ Hold
+8-20
+ 2-3             Ant 1-15                        Elec 1-10/ Bridge 1-10
+ 4-5             Ant 1-15                        Elec 1-8/ Hold 9-20
+ 6-7             Ant 1-10                        ST 1-3/ Hold 4-20
+ 8-9             Ant 1-10                        LT 1-3/ Hold 4-20
+ 10               Ant                                Hold
+ 11               AL 1                             Hold
+ 12-13         EMM Rad 1-13            Quarters
+ 14-15          -                                   Quarters 1-9/ Hold 10-20
+
+ 16-17          -                                   Quarters
+ 18-19          -                                   Eng 1-4/ Quarters 5-20
+ 20               -                                    Eng
+
+
+
+Systems
+Elec                            Quarters
+Engineering                             Surface
+AEMS-2x2h               AG-1H
+FPP-1H                                  AEMS Ant-2x1h
+EMM-1H                   LS-16H
+MD-1H                                   AL-2x1h
+EMS Jammer-2x1h     SSR-8x2h
+PP-1H                                    EMM Rad-3h
+Ladar-1h                    Sick
+Bay-1H
+PEMS Ant-2x1h
+Laser-2x1h
+Bunks-3h
+Radio Ant-2x1h
+Maser-2x1h                Hold
+MFD-1H                    Cargo-1H
+PEMS-2x1h                Fuel-1H
+Radio-2x1h                 Magnetic Anchor-3x1H
+
+Weapon Mounts
+LT-1H                   ST-1H                   FG-3x3h
+
+The Grapples comes from the oct 15 post...
+Magnetic Anchor: A magnet tipped grapple(s) that is shot from a boarding
+vessel using compressed gas or
+explosive charge. Boarding crews can either winch the ships together, or use
+boarding cables to alight to
+the offending ships hull.
+
+Multiply the volume of the boarding ship by 0.02 to get the volume of the
+grapple and its launch
+apparatus. An anchor has a maximum range of 1km, and hitting a disabled
+vessel is an average task with
+energy weapons or field artillery skills. Against a accelerating vessel this
+becomes a difficult task, and
+formidable against a maneuvering vessel. The difficulty of this task is
+reduced for every anchor
+fitted, but seperate to hit rolls are needed for each anchor used. In BL it
+takes one turn to grapple a
+ship, and one more turn to board the craft. During the actual boarding
+phase, the pilot must make an average
+skill roll to maintain the vessels station.
+
+As for penetrating the opponent hull, each of the fusion guns can punch
+through 15cm of BSD armor and have 5 shots each...

@@ -1,0 +1,108 @@
+ 
+Salamander Gunboat
+by Lewis Roberts
+                          
+The Salamander Gunboat was designed to answer the Regency's need for system
+defense craft capable of dealing with attacking Vampire ships. The boat is
+highly specialized for this mission and has little utility other than
+combat. The boat was designed to maximize offensive punch. The boat is
+designed to take up station and defend it from all comers.
+
+The boat is armed with two custom built laser bays. Each laser bay has six
+750 Mj non-grav focused laser cannons. This adds up to 9 gigajoules of
+laser energy being pumped out. This is a fearsome ammount for such a small
+craft. The cannon's range is fairly short due to the lack of gravitic
+focusing. This is acceptable becuase the vessel was designed for combat
+against attacking forces who must advance into the Salamander's range. Each
+bay is controlled by a MFD on the bridge. In the event that one of the MFDs
+is knocked out, the other MFD can link both bays and fire them on the same
+target.
+
+The Salamander does not ignore defense. The boat is armored with 19.6 cm of
+bonded superdense for a total armor value of 550. This is enough to shrug
+off the standard Tl-15 150 MJ laser turret and to reduce the standard TL-14
+300 MJ laser barbette to a minor hit. In addition the boat mounts three
+state of the art sandcasters and three point defense lasers. These lasers
+can shoot down incoming missiles or engage attacking small craft. To make
+it more difficult for enemy craft to lock on, the Salamander has
+electromagnetic masking, decoys and a long range EMS jammer.
+
+Due to the massive amounts of armor, the craft is extremly heavy and
+requires oversized engines and a corresponding large amount of fuel.
+
+The Salamander is a spherical craft. The bridge is located at the center of
+the sphere. It is surrounded by crew quarters. The engine room is at the
+back of the sphere. Fuel tanks are mounted on the inside of the hull and
+provide additional buffer between the enemy and the crew. It is a fairly
+utilitarian vessel, and the insides are rather uninspired. The staterooms
+are a bit cramped and fairly ugly with exposed pipes and cables running
+through most spaces.
+
+     It's not a sleek star knight ridding off to do battle, but an ugly
+     little knife fighter of a ship.
+     - Commander Elri Makalka
+
+---------------------------------------------------------------------------
+
+Salamander-Class Gunboat
+
+General Data
+
+ Displacement: 300 tons                           Hull Armor: 550
+ Length: 20.02 meters                             Volume: 4,200 m3
+ Price: 207.92 MCr                                Target Size: S
+ Configuration:Streamlined Sphere                 Tech Level: 15
+ Mass (Loaded/Unloaded): 5,762.3 / 5,610.5
+
+Engineering Data
+
+     Power Plant: 1.9 GW Fusion Power Plant, 1 year duration (190.0 m3
+     fuel) #NUM!
+     G-Rating: 4G HEPlaR (287.7 MW/G), High-Efficiency CG Lifter (30 MW)
+     G-Turns: 50, 36.0 m3 fuel each
+     Maint: 87
+
+Electronics
+
+     Computer: 3xTL-15 Fibre-optic computer (1.1 MW)
+     Commo: Laser (1000 AU; 0.3 MW), Maser (1000 AU; 0.6 MW), Radio (1000
+     AU; 20 MW)
+     Avionics: Imaging EMS, inertial/gravitational positioning, 190 km/h
+     NOE
+     Sensors: AEMS (10 hex; 15 MW), PEMS (4 hex; 0.1 MW),
+     ECM/ECCM: EMS Jammer (10 hex;30 MW), 90 sensor decoys (30 Laser, 30
+     AEMS, 30 PEMS), EM Masking (4.2 MW)
+     Controls: Bridge with 9 bridge workstations, 12 normal workstations,
+     fire control center (2 workstations), Standard Automation
+
+Armament
+
+     Offensive: 3x50 Mj Point Defense Lasers in 0.8 ton remote turrets
+     12xTL-15 750-MJ Non-grav Lasers Cannon in two custom bays
+     (Loc:0-Arcs:0;49 MW;No crew)
+     Defensive: 3xTL-15 Sand Caster (Loc:0-Arcs:0;1 MW;1 crew)
+     Master Fire Directors: 5xTL-15 (6 Diff Mods; 10 hex; 1.56 MW; 1 crew),
+
+     Name                       Short      Medium      Long      Extreme
+     750 MJ Laser Cannon        10:1/22-68 20:1/11-34  40:1/5-17 80:1/3-9
+     50 MJ Point Defense Lasers 10:18-1/6  20:18-1/6   40:18-1/6 80:18-1/6
+
+Accommodations
+
+     Life Support: Extended Life Support (0.13 MW)
+     Grav Compensation: 6 Gs (3.22 MW)
+     Crew: 26 (2xManeuver, 1xElectronics, 12xEngineer, 8xGunnery,
+     3xCommand)
+     Crew Accommodations: 15xSmall Stateroom (0.5 kW)
+     Cargo: 12.6 m3 (0.9 tons), 1 Small Hatch
+     Small Craft and Launch Facilities: None
+     Air Locks: 3
+
+Notes
+
+Total Fuel Tankage: 1,988.1 m3 (142.0 tons).
+Fuel scoops (20% of ship surface), fills tanks in 0.59 hours.
+Fuel purification machinery (1MW), 59.64 hours to refine 1,988.1 m3.
+Crew requirements are calculated by using 'Original FFS' crew model.
+0.4 MW power surplus
+

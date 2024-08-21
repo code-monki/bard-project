@@ -1,0 +1,120 @@
+Defender SDB 
+by "DED" <dedly@snet.net>
+ 
+I don't know if this is better but I've made various modifications based on
+suggestions that were made (thanks again). The armaments are a little more
+lethal, defenses more practical, the ship costs less, and has a bit more
+fuel.
+
+TL-15 Defender Class System Defense Boat
+
+The Defender Class SDB is a 300 ton gunboat designed to take on enemy ships
+much larger than itself. Intended as the last line of defense against
+invading vampire ships, the Defender is built around a 3.6 GJ Particle
+Accelerator spinal mount capable of blasting holes in the toughest of
+opponents. Complementing the particle accelerator are two 1000 MJ Laser
+Barbettes (non-gravitically focused).
+
+The creation of confusion among one's opponents is also an important weapon.
+To that end, the Defender employs electronic countermeasures. The Defender
+comes with a 30 MW EMS Jammer (effective range 10 hexes), 30 sensor decoys
+(10 Laser, 10 AEMS, 10 PEMS), and EM Masking (4.2 MW).
+
+If you're going to fight with the big boys, you've got to be able to take a
+hit as well. For defense the ship's outer hull is constructed of bonded
+superdense 3.57cm thick, giving the ship an armor rating of 100. There are
+also 2 Sandcasters.
+
+Being part of the last line of defense means that you have to be in position
+at the time of attack or, at the very least, shortly thereafter. To that
+end, the Defender is capable of 6 G's of thrust and has enough fuel for 81
+G-Turns. The fusion plant is rated at 1300 MW.
+
+The Defender requires a crew of 13 and has accommodations for such.
+
+The Defender costs 210.9 MCr to build. We feel that this price is reasonable
+considering the high end performance and firepower of the ship. It is a
+worthwhile investment for any world in or along the frontier.
+
+General Data
+Displacement: 300 Tons
+Volume: 4200 m3
+Length: 60.05 meters
+Target Size: Small
+Configuration: Streamlined Needle
+Hull Armor: 100
+Mass (Loaded/Unloaded): 3955.5/3840.1
+
+Engineering Data
+Power Plant: 1300 MW Fusion Power Plant (46.8 MW surplus), 1 year duration
+(130 m3 fuel)
+G-Rating: 6G HEPlaR (150 MW/G), High Efficiency CG Lifter (30 MW)
+G-Turns: 81, 18.8 m3 of fuel each
+Maint: 126
+
+Electronics
+Computer: 3xTL15 Fiber-optic Computers (1.1 MW each)
+Communications: Maser (1000 AU; 0.6 MW) Radio (10 hex; 10 MW)
+Avionics: Imaging EMS, inertial/gravitational positioning, 190 km/hr NOE
+Sensors: Passive EMS folding array (6 hexes; 0.2 MW), Active EMS (8 hex; 13
+MW)
+ECM/ECCM: EMS Jammer (6 hex; 22 MW),
+                    30 sensor decoys (10 Laser, 10 AEMS, 10 PEMS),
+                    EM Masking (4.2 MW)
+Controls: No bridge, 7 normal workstations, fire control center (2
+workstations), standard automation
+
+Armament
+Offensive: Spinal Mount.TL-15 3.6 GJ Particle Accelerator (Loc:1, Arcs:1,
+1000 MW, 3m diameter, 60m Length 1 crew)
+               2 TL-15 1000 MJ Laser Barbette (Loc: 10,11 Arcs: All?, 65.4
+MW, 0 crew)
+Defensive: 2 TL-15 Sandcasters (Loc:10,11 Arcs: All?, 1 MW, 1 crew)
+
+MFD's: 2xTL-15 (6 Diff Mods; 10 hex; 1.56 MW, 1 crew)
+
+        Short          Medium         Long        Extreme
+PA    10:300        20:300          40:300      80:213
+LB    10:1/25-79   20:1/19-59    40:1/9-30   80:1/5-15
+
+TL 15 Sandcaster Beam Reduction: 2D10x5
+
+Accommodations
+Life Support: Extended (4138 m3 volume, 0.828 MW), Artificial Grav/CG (20.69
+MW)
+Crew: 13 (3 Maneuver, 3 Engineer, 5 Gunnery, 1 Command)
+Crew Accommodations: 13 Small Staterooms (0.5 kW)
+3 Air Locks
+
+Notes:
+Total Fuel Tankage: 1648.8 m3 (117.8 tons)
+Fuel Scoops: 10% of ship's surface, fills tanks in 1 hour.
+Fuel Purification Plant: (4 MW) 12.4 hours to refine full tank
+46.8 MW power surplus
+
+Price: 210.9 MCr
+
+Damage Tables:
+Area      Surface Hits     Internal Explosion
+1           Antenna (1-2)    PA
+2-3        Antenna           Elec (1-10) Hold (11-12) PA (16-20)
+4-5        EMMR (1-5)      Hold (1-15) PA (16-20)
+6-9                               Qtrs (1-13) Hold (14-16) PA (17-20)
+10,11                            LB (1-8) Sand (9-12) Hold (13-16) PA
+(17-20)
+12,14,15                       Hold (1-16) PA (17-20)
+13       Air Lock (1-2)     Hold (1-16) PA (17-20)
+16-19                           Eng (1-6) Hold (7-16) PA (17-20)
+20                                Eng (1-16) PA (17-20)
+
+Systems: (hope this makes sense)
+EMMR: 4h     SS: (13) 2h   PP: 3H,4h    PA: 16H
+AEMS: 1h      LS:  7H         MD: 1H        LB: (2) 1H
+PEMS: 1h      ELS: 3H,4h   CG:  1H       SC: (2) 1H
+P-Ant:  2h      AG: 1H         FPP: 3H,4h
+EMS Jam: 2h
+MFD: (2) 2h
+All others: 1h
+
+\_/
+DED

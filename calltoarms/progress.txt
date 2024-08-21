@@ -1,0 +1,128 @@
+ 
+Progress Class Assault Shuttle
+by Ulf Schreiber <ulf.schreiber@gmx.net>
+ 
+Aargh! Messed up once more with updating my files:
+
+>   G-Rating: 6G HEPlaR (3G with 4 drop tanks, 4G with 2 drop
+>   tanks)(142,2 MW/G)
+
+This is plain wrong. G-rating with drop tanks is always 5 G.
+Forget about 3G or 4G.
+
+"G-Rating: 6G HEPlaR (limited to 5G with drop tanks)" is
+the correct version.
+
+The file at http://usr.port5.com/progress has also been updated...
+
+(iterations come and go...)
+
+> ________________________________________________________________________
+>
+> Progress-Class Assault Shuttle
+> General Data
+> Displacement: 100/160 tons (with/without   Hull Armor: 660
+> drop tanks)
+> Length: 27,76 meters                       Volume: 1400,000/2240,000 m3
+> Price: 78.820354 MCr (without drop tanks)  Target Size: S
+> Configuration:Streamlined Cylinder         Tech Level: 15
+> Mass (Loaded/Unloaded): 2843,9818 / 2821,0756
+>
+> Engineering Data
+>   Power Plant: 874 MW Fusion Power Plant, 1 month duration
+>   (7,283 m3 fuel)
+>   Jump Performance: None
+>   G-Rating: 6G HEPlaR  (limited to 5G with drop tanks)(142,2 MW/G)
+>   G-Turns, 18 m3 fuel each:
+>   17 (internal)
+>   1 (emergency)
+>   Maint: 148
+>
+> Electronics
+>   Computer: 2xTL-15 Fibre-optic computer (1,1 MW)
+>
+>   Commo: 3xMaser (1000 AU; 0,6 MW), 2xRadio (1 hex; 1 MW)
+>
+>   Avionics: Imaging EMS, inertial/gravitational positioning, 190
+>     km/h NOE (not of much use without CG, but in my eyes
+>     unfriendly docking has much in common with flying NOE, so this
+>     was included, call it "docking computer" instead if you like)
+>
+>   Sensors: AEMS (30 km; 2,5 MW), AEMS (3 km; 0,5 MW), PEMS (3
+>     hex; 0,06 MW), 6xPEMS (1 hex; 0,02 MW), Neural Activity Sensor
+>     (0,05 km; 0,006 MW)
+>   ECM/ECCM: EMS Jammer (1 hex;12 MW), 90 sensor decoys (6 Laser,
+>     6 AEMS, 6 PEMS), EM Masking (1,4 MW)
+>
+>   Controls: No bridge, 7 normal workstations, , Low Automation
+>
+> Armament
+>   Offensive: TL-15 80 MJ Meson Gun (Loc:10-Arcs:10;22,222 MW;
+>                                     1 crew; 100 shots/30 min)
+>   Defensive: None
+>   Master Fire Directors: None
+>
+> Name                 Short       Medium    Long      Extreme
+> 80 MJ Meson Gun      0,125:45    0,25:28   0,5:15    1:7
+>
+>
+> Accommodations
+>   Life Support: m3 LS volume (0,04 MW), Gravitic Compensators
+>   (0,95 MW)
+>   Grav Compensation: 6 G.
+>   Crew: 8 (1xManeuver, 0xElectronics, 5xEngineer, 1xGunnery,
+>   1xCommand)
+>   Crew Accommodations: Cockpit
+>   Cargo: 0 m3 (0 tons), 2 Small Hatch (for boarding crew)
+>   Small Craft and Launch Facilities: 100-ton SL grapple (aka
+>   frog leg grappling apparatus)
+>   Air Locks: 4 (1 for ship's crew, 3 for boarding crew)
+>
+> Drop tanks: (4 peaces à 15 dt each)
+>
+> Masked (EMM) drop tanks:       Price (one peace): 1.129135 MCred
+> Unstealthed budget drop tanks: Price (one peace): 0.079135 MCred
+>
+> Drop tank hull    50
+> armor:
+>       First pair: Acceleration 5.5 G (limited by security
+>                  circuitry to 5 G)
+>                   Duration 10 G-turns
+>      Second pair: Acceleration 5,7 G (limited by security
+>                  circuitry to 5 G)
+>                   Duration 14 G-turns
+>
+> Notes
+> Total Fuel Tankage: 1141,3432 m3 (23 tons).
+> Crew requirements are calculated by using 'Original FFS' crew
+> model.
+> Acceleration based on real mass.
+> 25,1 MW power shortfall.
+>
+> Damage Tables
+>
+> D20           Surface Hits          Internal          Systems
+>                                      Explosions
+> ________________________________________________________________
+> 1             1: Air Lock, 2-5:     Elec              PP-3H
+>                Antenna
+> 2,3           1-2: EMM-Rad          Qtrs              MD-1H
+> 4,5           1-2: EMM-Rad          1-6: Elec, 7:     LS-1H
+>                                      Qtrs, 8-20: Hold
+> 6,7           External Grapple      External Grapple  ELS-1H
+> 8,9           1-5: Antenna [1-20:   Qtrs              EMM-1H
+>                drop tanks 2a/b]
+> 10            1-2: Air Lock[1-20:   1-12: Meson, 13-  Meson-1H
+>                drop tank 1a]         20: Hold
+> 11            Air Lock [1-20: drop  1-6: Eng, 7-      Grapple-4H
+>                tank 1b]              20:Hold
+> 12,13         External Grapple      External Grapple  All others:
+>                                                        (1h)
+> 14,15         1-7: Small Hatch      Hold
+> 16,17         External Grapple      External Grapple
+> 18-20         1-2: Antenna          Eng
+>
+> (Antennae are widely distributed because they are mainly additional
+>  systems for redundancy)
+>
+ 

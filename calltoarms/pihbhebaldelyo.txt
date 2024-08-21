@@ -1,0 +1,165 @@
+Pihbhebaldelyo Class Patrol Cruiser
+by Yves SIMON <yves.simon6@free.fr>
+
+Nyolenambih Inc. is proud to present you it's most own refit of the
+ubiquitous Patrol Cruiser. The Pihbhebaldelyo is an TL-15 upgrade of
+this venerable ship.
+
+It have more armor and fire power than the original design while keeping
+the same performances (Jump 3, 4G). More, the ship have more available
+re-mass the
+before (40G-turns instead of only 30), meaning longer engagement and
+better evasion possibilities.
+
+The main armament consists in two spinal 750Mj lasers and two 150Mj
+Laser turrets. The original missiles turrets have been replaced by two
+sandcaster turrets to
+help protect the ship against enemy fire. The protection is also assured
+by eight centimeters of Bonded Super Dense armor plating instead of only
+one and a half. The
+ship is also protected against meson-based weaponry by a 5 MW meson
+screen.
+
+Compared to the original Imperial design, the ship only lose it's
+30-dTons ship's boat hangar.
+
+On the electronic side, the ship has all it's detection & communication
+systems doubled, and possess two EMS jammers and an EM Masking system
+making it
+harder to detect and to hit.
+
+The crew was not forgotten, as the ship can accomodate in dual occupancy
+large staterooms (single occupancy small staterooms for officers) and
+have a spare large
+stateroom for recreation purpose (often fitted with video equipment).
+
+
+
+
+Pihbhebaldelyo Patrol Cruiser
+
+General Data
+
+ Displacement: 400 tons                                       Hull
+Armor: 224
+ Length: 66 meters                                               Volume:
+5600 m3
+ Price:300.4174 MCr                                          Target
+Size: S
+ Configuration: AF Needle                                   Tech Level:
+15
+ Mass (Loaded/Unloaded):5796.8 / 5644.7
+
+
+
+Engineering Data
+
+     Power Plant: 1549 MW Fusion Power Plant, 1 year duration (154.9 m3
+fuel)
+     Jump Performance: 3
+     Jump Fuel: 1120 m3
+     G-Rating: 4G HEPlaR (289.8 MW/G), Auxiliary Improved CG (40 MW)
+     G-Turns: 40, 36.2 m3 fuel each (+ 10 G-Turns per jump, total 70)
+     Maint: 113
+
+Electronics
+
+     Computer: 3xTL-15 Fibre-optic computer (1.4 MW),
+     Commo: 1xLaser (1000AU; 0.3 MW), 2xMaser (1000AU; 0.6 MW), 2xRadio
+(10 Hex; 10 MW)
+     Avionics: Imaging EMS, IGS positioning, 190 km/h NOE
+     Sensors: 2xAEMS (10 hex; 15 MW), PEMS Fixed array (6 hex; 0.2 MW),
+PEMS Antenna, 32m2 Fixed,
+     Neutrino Sensor (0.01 MW), Densitometer (0.4 MW), 2xLadar (10 hex;
+0.4MW)
+     ECM/ECCM:2xEMS Jammer (10 hex;10 MW), EM Masking (5.6 MW)
+     Controls: Bridge with 9 bridge workstations, 9 normal workstations
+
+Armament
+
+     Offensive:2x 750Mj Spinal Laser . ROF=50 (-1 DM) (106.16 MW; 1
+crew; Arcs 1,2 & 3)
+     2x TL-15 150 Mj Laser Turrets ROF=50 (-1 DM) (27.67 MW; 1 crew;
+Arcs 1,2,3 & 4)
+     Defensive:Meson Screen Generator (PV=400; 5 MW; 1 Crew),
+2xSandcaster Turrets (50 Cannisters, 2D10x5 reduction)
+     Master Fire Directors: 2xTL-15 (6 Diff Mods; 10 hex; 0.96 MW; 1
+crew)
+      Name                             Short
+Medium          Long               Extreme
+      750 Mj Laser                 10:1/22-68     20:1/22-68
+40:1/22-68     80:1/22-68
+      150-Mj Laser Turrets     10:1/11-35     20:1/11-35
+40:1/11-35     80:1/11-35
+
+
+Accommodations
+
+     Life Support: Extended (1.12 MW)
+     Gravitic Compensation: 6Gs (28 MW)
+     Crew:23 (2xManeuver, 2xElectronics, 9xEngineer, 7xGunnery,
+3xCommand)
+     Crew Accommodations: 3xSmall Stateroom (0.5 kW), 11xLarge
+Staterooms (1MW)
+     Passenger Accomadation: None
+     Cargo: 40 m3
+     Small Craft and Launch Facilities: None
+     Air Locks: 4
+
+Notes
+
+One large stateroom is provided for crew's recreational use.Total Fuel
+Tankage: 3048.5 m3 (213.4 tons)
+Fuel scoops (10% of ship surface), fills tanks in 1.36 hours
+Fuel purification machinery (1.0MW), 15.24 hours to refine 3048.5 m3.
+Only 1 Radio ,1 AEMS & 1 Maser are powered during combat,
+Navigation Aid, NOE Avionics, Flight Avionics & Fuel Purification Plant
+cannot be powered during combat.
+
+Damage Tables
+
+ Area        Surface Hit                    Internal Explosion
+ 1             Ant 1-16                        Elect
+ 2-3          Ant 1-10                        Spinal Laser 1-11/ Elec
+12-15/ Hold 16-20
+ 4-5          -                                    Hold
+ 6-7          -                                    SC 1-3/ Hold 4-20
+ 8-9          -                                    Hold
+ 10           AL 1                              Quarters 1-2/ Hold 3-20
+ 11            -                                   Meson Screen 1-7/
+Hold 8-20
+ 12-13       -                                   LT 1-3/ Quarters 420
+ 14-15       -                                   Hold
+ 16-17       -                                   Quarters
+ 18-19      AL 1/ EMM Rad 2-5     Eng 1-17/ Hold 18-20
+ 20            -                                    Eng
+
+
+
+Systems
+Elec                            Quarters
+Engineering                Surface
+AEMS-2x1h               AG-1H
+CG-1H                      AEMS Ant-2x1h
+Densito-1h                  LS-32H
+FPP-1H                     AL-4x1h
+EMM-1H                    SSR-15x2h
+MD-1H                      Densito-1h
+EMS Jammer-2h
+PP-5H                       EMM Rad-6h
+Laser-1x1h
+Hold                                                            PEMS
+Ant-1h
+Maser-2x1h
+Cargo-1H                                                   Radio
+Ant-2x1h
+MFD-2x1H                Fuel-1H
+Neutrino-1h
+PEMS-1h
+Radio-2x1h
+
+Weapon Mounts
+LT-2x1H                 SC-2x1H                 Screen-1H
+Spinal-2x3H
+
+

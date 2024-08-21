@@ -1,0 +1,158 @@
+Bastion / Bulwark Planetoid Missile Platforms
+by "Richard Perks" <richard@rjperks.freeserve.co.uk>
+ 
+For all those TL 8 planets with moderate populations who can't afford those
+nice TL15 Imperial standard warships (or the cheap vargr knock offs), and
+have not got the starport or heavy infrastructure for building fancy
+starship hulls; there are two designs to provide close in protection for the
+system mainworld against commercial vampires.
+The vessels are wholly TL8 construction for ease of maintenance and to
+reduce balance of payments problems. They are designed to be placed in orbit
+around the main world and to remain hidden pretending to be minor moons or
+old belter mining sites until the unsuspecting vampire closes in to perform
+planetary bombardment.
+
+They are designed to operate in groups of three; 1 bastion command base and
+2 bulwark missile bases - Total cost MCR 92.47693 approx half the cost of a
+dragon class SDB but with twice the fire power.
+
+They are based upon the planetoid hull rules devised by Rupert Boleyn and
+listed on the BARD pages. Missiles where chosen as the main armament due to
+the poor laser performance and lack of fusion PP at this TL.
+
+The bastion will detect the vampire and handoff sensor locks to the more
+heavy armed bulwarks via the laser coms.
+XXXXXXXXXXXXXXXXXXXXXXXXX
+
+Bastion Command Planetoid Missile Base
+Displacememt 200 tns;         Hull Armour: 30
+Length: 17m                        Volume: 2800m
+Price: MCr 57.63611        Target Size: Small
+Configuration: USL Sphere, Bufferred Planetoid
+TL: 8                                    Mass (L/E):  4732.56 / 4207.16
+
+Engineering Data:
+Power Plant: 12MW Fuel Cell, Duration 1 day combat, 15 days standby
+operation
+Jump Performance: 0
+Maneuver Gs: 0
+G Hours: 0
+Maint: 48
+
+Electronics:
+Computer: 3 x TL8 FIB
+Commo: Radio 3,000km; 3 x laser com, 300,000km
+Avionics: None
+Sensors: Radar, 30,000km; High Resolution Thermal, 60,000km  (both fixed
+arrays)
+Armament: 2 standard TL8 Missile turrets each with 2 ready missiles (Loc
+10/11 Arcs: all)
+Accommodation:
+Extended life support
+Crew 7 (1 command, 3 elec, 2 gun, 1 medic)
+Workstations: 4 bridge, 1 normal, 2 gunnery
+Crew Accommodations: 2 small staterooms, 5 bunks, 5 low berths
+Cargo: 7 cubic metres
+Small craft: 1 x 8Dtn Docking ring + launch port. (no craft carried)
+Airlocks 2:
+
+Notes: No fuel scoops or plant. Fuel: 518.4kl HG Hyd. The ship has been
+provided with a full bridge to allow ease of sensor lock handoffs to the
+bulwarks via laser com.
+The ship configuration is unsuitable for spin, so only the medic and 1 elec
+operator are normally awake (and are rotated planetside every month to
+prevent zero g effects building up), the remainder of the crew are frozen
+and are awakened if a vampire is detected. The additional bunks are provided
+for the crew (staterooms used by the medic and the elec - except when the
+commander is awakened, when he gets bumped down to a bunk).
+Full power operation is with the radar running full 12MW output, standby is
+with everything else running but no radar. Standby days can be traded for
+combat days at the ratio of 3 to 1.
+The missile armament is for self defense or when sensor locks can not be
+passed to the two escorting bulwarks.
+
+Lcom 1h x 3, radio 1h, 2ssr 1h, 5low 1h, HRT, 2h, LS 27H, ELS 13H, Hanger
+1H, Radar 1H, PP1H, MT 1H.
+
+Surface
+1 (1 LC ant, 19 radio ant, 2-18 HRT ant0
+2 (1 airlock, 2-10 radar ant)
+3-5 None
+6-7 (1 LC ant)
+9-12 None
+13 (1 airlock)
+14 None
+15 (1-10 launch port)
+16-20 None
+Interior
+1 Elec
+2-9 Quarters
+10-11 (1-6 MT, 7-20 Hold)
+12-18 Quarters
+19 (1-10 hold, 11-20 quarters)
+20 (1-4 eng, 5-20 hold)
+
+XXXXXXXXXXXXXXXXXXXXXX
+
+Bulwark Planetoid Missile Platform
+Displacememt 200 tns;         Hull Armour: 30
+Length: 17m                        Volume: 2800m
+Price: MCr 17.42041        Target Size: Small
+Configuration: USL Sphere, Bufferred Planetoid
+TL: 8                                    Mass (L/E):  4707.24 / 4154.444
+
+Engineering Data:
+Power Plant: 4MW Fuel Cell, Duration 16 days
+Jump Performance: 0
+Maneuver Gs: 0
+G Hours: 0
+Maint: 50
+
+Electronics:
+Computer: 3 x TL8 FIB
+Commo: Radio 3,000km; 2 x laser com, 300,000km
+Avionics: None
+Sensors: High Resolution Thermal, 60,000km  (fixed array)
+Armament: 3 standard TL8 Missile turrets each with 2 ready missiles and
+autoloaders, magazine holding 12 additional ready missiles (Loc 2/10/11,
+Arcs: 1-3/all/all)
+Accommodation:
+Extended life support
+Crew 6 (2 elec, 3 gun, 1 medic)
+Workstations: 2 bridge, 1 normal, 3 gunnery
+Crew Accommodations: 2 small staterooms, 4 bunks, 4 low berths
+Cargo: 8 cubic metres
+Small craft: 1 x 8Dtn Docking ring + launch port. (no craft carried)
+Airlocks 2:
+
+Notes: No fuel scoops or plant. Fuel: 460.8 kl HG Hyd.
+The ship has been provided with a full bridge to allow ease of sensor lock
+handoffs from the bastion via laser com.
+The ship configuration is unsuitable for spin, so only the medic and 1 elec
+operator are normally awake (and are rotated planetside every month to
+prevent zero g effects building up), the remainder of the crew are frozen
+and are awakened if a vampire is detected. The additional bunks are provided
+for the crew (staterooms used by the medic and the elec)
+Lcom 1h x 2, radio 1h, 2ssr 1h, 4low 1h, HRT, 2h, LS 27H, ELS 13H, Hanger
+1H, PP2h, MT 1H.
+
+Surface
+1 (1 LC ant, 19 radio ant, 2-18 HRT ant0
+2 (1 airlock,)
+3-5 None
+6-7 (1 LC ant)
+9-12 None
+13 (1 airlock)
+14 None
+15 (1-10 launch port)
+16-20 None
+Interior
+1 Elec
+2 (1-6 MT, 7-20 Quaters)
+3-9 Quarters
+10-11 (1-6 MT, 7-20 Hold)
+12-18 Quarters
+19 (1-10 hold, 11-20 quarters)
+20 (1-2 eng, 3-20 hold)
+
+ 

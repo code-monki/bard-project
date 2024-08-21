@@ -1,0 +1,57 @@
+  Butcher
+  
+  by Michael Koehne  
+
+ 
+  Gushemege has a old Lancian tradition to distinct between Pulehov as
+  the foreign army is called and Silkku as the peoples army is called.
+
+  The fleets of the Distributed Republic of Rurevayn had been seen as
+  Pulehov. Just an other foreign army, stepping in the shoes of Vilani,
+  Solomani, and Imperial armies. But the DRR did'nt cover the complete
+  Gushemege. Most areas had been visited by the Guild fleets, only.
+  
+  Brinn expansions in 1203 showed, that frontier areas are'nt save. 
+
+  The cluster of receptor worlds of Kell, Fubanan and Aakmi offered
+  an attractive target to the first Brinn expansion. The run of fender
+  worlds from 2704 to 3202 formed the secondary Brinn objective in 1204,
+  with ultimate exploitation to Kukhun in 1205 and its neighbouring
+  receptor worlds.
+  
+  The Guild lost most trade in Tansa because of the genocidial war
+  the Brinn are known for. Suddenly the Pulehov of the DRR became
+  welcomed guests in any system. Call to arms is out for the Silkku.
+
+BM-10-15-Butcher
+
+General Data:
+    Displacement :     15 dt            Tech Level :    10
+    Length       :     20 meters        Volume     :   210 m3
+    Hull         :    273 m2            Armor      :    20
+    Mass         :    384 tons          Price      :    38 MCr
+Engineering Data:
+    Hull             : 7 m3, 0.5 dt, 75 tons
+    Fission Plant    : 40 MW, 44 m3, 3.1 dt, 240 tons
+    G-Rating (HEPlaR): 1.6G (Thusters 30 MW, 3 m3, 3 tons)
+    G-Turns          : 30 - 2.4 m3 of fuel each
+    Contra Graph     : 3.0 MW, 4 m3, 0.3 dt, 4 tons
+    Fuel             : 73 m3, 5.2 dt
+Electronics:
+    Controll system  : Dynamic linked, 2*Mod-A dynamic
+    Cockpit          : 2 crewstations 
+    Avionics         :   img.EMS, grav.pos 
+    Commo            :   Radio 30,000 km 
+                     :   Laser/Maser 1000 AU 
+    Sensor           :   Passive EMS 120,000 km 11.0 tons 
+    Control          :   MFD Mod +3 10.0 tons 
+                     :   MFD EMS 120,000 km 8.0 MW 
+                     : 4 LaserComs 300,000 km 
+Armament:
+    Missiles         : 3 6*1/14-43 controlled 
+    Drone            :   AEMS 120,000 km 
+Accomodations:
+    Life Support     :   Ext 0.01 MW, 0.8 m3, 0 tons for 103 m3
+Crew : (45% compmul, 15 maint) 2 humans
+         1 maneuvering   1 electronics
+

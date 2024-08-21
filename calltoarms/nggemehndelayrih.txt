@@ -1,0 +1,142 @@
+Nggemehndelayrih Class Heavy Fighter TL 16
+by Yves SIMON <yves.simon6@free.fr>
+ 
+Built by Nyolenambih Inc. in it's shipyards on Darrian (0627 Spinward
+Marches), the Nggemehndelayrih is one of the most recent heavy fighter type
+produced in the Confederation.
+
+This ship is named after a social flying insect similar to Terran Hornets.
+
+The main weapon of this fighter is a 800 Mj laser lance capable of
+penetrating over 50 centimeters of Bonded Super Dense plating. The secondary
+weapons are six HEPlaR 0.5dT detonation laser missiles designed for long
+distance attacks and two 23mm Gauss autocannons for atmospheric combat.
+
+The fighter is well protected under 4 cm of BSD armor and is equiped of both
+an EMM and a decoy dispenser. It is also fast (6 G) and has a good autonomy
+(110 G-Turns)
+
+The fighter is crewed by three persons, a pilot, a gunner and a engineer/ EW
+specialist. The fighter can operate on long patrol, the crew resting in a
+small stateroom.
+
+A downgraded TL:F version will also be available soon to be built in other
+shipyards in the regency.
+
+
+
+Nggemehndelayrih Class Heavy Fighter
+
+General Data
+
+ Displacement: 70 tons                                      Hull Armor: 112
+ Length: 37.5 meters                                          Volume: 980 m3
+
+ Price:100.38 MCr                                            Target Size: VS
+
+ Configuration: AF Needle                               Tech Level: 16
+ Mass (Loaded/Unloaded):813.3 / 764.8
+
+
+
+Engineering Data
+
+     Power Plant: 332 MW Fusion Power Plant, 1 year duration (33.2 m3 fuel)
+     Jump Performance: None
+     Jump Fuel: 0 m3
+     G-Rating: 6G HEPlaR (40.7 MW/G); Contra-Grav Lifters (7 MW)
+     G-Turns: 110, 5.1 m3 fuel each
+     Maint: 10
+
+Electronics
+
+     Computer: 2xTL-16 Fibre-optic computer (1.2 MW),
+     Commo: 2xLaser (10 hex; 0.6 MW), Maser (10 hex; 0.3 MW), Radio (10 hex;
+10 MW)
+     Avionics: Imaging EMS, IGS positioning, 200 km/h NOE
+     Sensors: AEMS (16 hex; 13 MW), PEMS Fixed array (3 hex; 0.04 MW), PEMS
+Antenna, 32m2 Fixed, Ladar (10 hex; 0.4MW)
+     ECM/ECCM:Decoy Dispenser (200 Laser, 200 Radar, 200IR), EM Masking
+(0.98 MW)
+     Controls: Cockpit
+
+Armament
+
+     Offensive:800 Mj Laser Turret (46.8 MW; 0 crew; Arc 1)
+     6x Missiles Launchers (0 MW; 0 crew; Arcs All)
+     2x 23mm Gauss Autocannon (26.7 MW; 0 crew; Arc 1)
+     Defensive:None
+     Master Fire Directors: 1xTL-16 (6 Diff Mods; 10 hex; Msl 10 hex; 1.11
+MW; 1 crew)
+      Name                                    Short
+Medium                Long                Extreme
+      800Mj Laser Turret               10:1/23-71       20:1/23-71
+40:1/19-59       80:1/9-29
+      23mm Gauss Autocannon       600m               1.2km
+2.4km               4.8km
+            C5 B20 Pen225
+
+     Missiles:
+      Type                                        Guidance       Mass
+MCr      Hits  Damage    Sensor    Signatures    G-Turns
+      TL16 HEPlaR 500kt DetLaser Independant   3.0559   1.3181  1d6
+1/25-79     1P       +4/+3/+4/+3/+1  12/300
+
+
+Accommodations
+
+     Life Support: Extended (0.196 MW)
+     Gravitic Compensation: 7Gs (1.9 MW)
+     Crew:3 (1xManeuver, 1xElectronics/Engineer, 1xGunnery)
+     Crew Accommodations: 1xSmall Stateroom (0.5 kW)
+     Passenger Accommodation: None
+     Cargo: 7 m3
+     Small Craft and Launch Facilities: None
+     Air Locks: 1
+
+Notes
+
+Total Fuel Tankage: 592.3 m3 (41.5 tons)
+
+Damage Tables
+
+ Area        Surface Hit                        Internal Explosion
+ 1                -                                     Elec 1-20
+ 2-3         Ant 1-9                              Elec 1-7/ Hold 8-20
+ 4-5                                                   Laser 1-7/ Gauss AC
+8/ Hold 9-20
+ 6-7         Ant 1-10                            Hold
+ 8-9                                                  Missiles 1-17/ Hold
+18-20
+ 10           Ant 1-15                           Hold
+ 11              -                                    Hold
+ 12-13      AL 1                                Quarters 1-17/ Hold 18/20
+ 14-15      Decoy Disp 1                   Hold
+ 16-17       -                                      Hold
+ 18-19       -                                      Eng 1-9/ Hold 10-20
+ 20           EMM 1-4                         Eng
+
+
+
+Systems
+Elec                          Quarters
+Engineering             Surface
+AEMS-2h                 AG-4h                   MD-1H                AEMS
+Ant-1h
+EMM-1H                  LS-5H                   PP-1H                  AL-1h
+
+Ladar-1h
+SSR-2h                                             EMM Rad-1h
+Laser-2x1h
+PEMS Ant-1h
+Maser-1h
+Radio Ant-1h
+MFD-1H                   Hold Decoy Disp-1h
+PEMS-1h                   Cargo-1h
+Radio-1h                    Fuel-1H
+Decoys-1h
+
+Weapon Mounts
+Laser-1H                Gauss-1H                Missiles-3x3h
+
+

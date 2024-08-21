@@ -1,0 +1,113 @@
+Floriani Beta-Class Gunboat
+by "Snapping Turtle" <meancooter@yahoo.com>
+ 
+The Floriani Beta-Class Gunboat is part of a series of similar, yet
+complementary 300 ton gunboats produced for the Floriani navy. These craft
+are not intended to operate singly, but as part of an balanced task force.
+
+As a class, these gunboats generally sacrifice weaponry and endurance to
+high speed and heavy armor. This is consistent with the initial Floriani
+design concept which was to use gunboats to break through opposing lines of
+fighters in order to bring overwhelming force to bear on the escort vessels
+of the enemy. They are strictly creatures of space, as they can only operate
+from orbital facilities or larger carrier craft.
+
+It is proposed that the Regency purchase several of these gunboat
+flotillasin order to test their suitability use as system defense squadrons.
+Initial evaluations indicate that the synergistic interaction of the
+different variants which comprise such squadrons produces a defensive value
+considerably exceeding their relative cost. Purchase of such foreign built
+systems will also alleviate some of the strain on Regency shipyards in the
+current (1140) crisis
+
+This is the electronic warfare variant which is used for command and control
+of a mixed flotilla of 4-5 craft of this class. In accordance with its
+picket functions, it has longer endurance than other vessels of this class.
+It carries two gravitically focussed laser turrets mounted ventrally and
+dorsally, and two missile barbettes mounted port and starboard (each with 6
+missiles).
+
+Description of the ship
+Floriani Beta-Class Gunboat
+
+General Data
+Displacement: 300 tons
+Hull Armor: 335
+Length: 60.33 meters
+Volume: 4,200 m3
+
+Price: 342.2 MCr
+Target Size: S
+Configuration: Streamlined Cone (3.7:1)
+Tech Level: 15
+Mass (Loaded/Unloaded): 4,584.2 / 4,435.9
+
+Engineering Data
+Power Plant: 2 GW Fusion Power Plant, 1 year duration (199.8 m3 fuel)
+Jump Performance: None
+G-Rating: 6G HEPlaR (229.22 MW/G)
+G-Turns: 67, 28.7 m3 fuel each
+Maint: 232
+
+Electronics
+Computer: TL-15 Fibre-optic computer (1.1 MW), TL-15 Fibre-optic computer
+(1.1 MW)
+Commo: 5xMaser (1000 AU; 0.6 MW), Radio (1 hex; 1 MW)
+Avionics
+Sensors: 4xAEMS (16 hex; 25 MW), 4xPEMS Folding array (6 hex; 0.2 MW), Ladar
+(10 hex; 0.6 MW),
+ECM/ECCM: EMS Jammer (10 hex;30 MW), Area Jammer (10 hex radius; 108 MW),
+900 sensor decoys (300 Laser, 300 AEMS, 300 PEMS), EM Masking (4.2 MW)
+Controls: Bridge with 7 bridge workstations, 13 normal workstations, fire
+control center (4 workstations), Standard Automation
+
+Armament
+Offensive: 2xTL-15 180-MJ Laser Turret (Loc:0-Arcs:0;200 MW;1 crew) 2xTL-15
+Missile Barbette (Loc:0-Arcs:0;0 MW;No crew)
+Defensive: None
+Master Fire Directors: 4xTL-15 (6 Diff Mods; 10 hex; Msl 10 hex; 1.86 MW; 1
+crew)
+
+180-MJ Laser Turret
+(short)10:1/11-34; (medium) 20:1/11-34; (long) 40:1/11-34; (extreme)
+80:1/11-34. Can be operated to -4 Diff Mods with 200 Mw power input
+
+Accommodations
+Extended Life Support:(0.12 MW),
+Gravitic Compensators (3.05 MW)
+Grav Compensation: 6 G.
+Crew: 27 (1xManeuver, 3xElectronics, 13xEngineer, 6xGunnery, 1x Drone
+Maintenance, 3xCommand)
+Crew Accommodations: 15xSmall Stateroom (0.5 kW)
+
+Cargo: None, 5 missiles in magazine
+Small Craft and Launch Facilities: 20-ton minimal hangar (for up to three
+drones)
+Air Locks: 3
+
+Notes
+Total Fuel Tankage: 2,119.5 m3 (151.4 tons).
+Fuel scoops (10% of ship surface), fills tanks in 1.26 hours.
+
+Crew requirements are calculated by using 'Original FFS' crew model. 38 MW
+power shortfall (can be compensated for in combat situations by shut-down of
+redundant sensor systems).
+
+Damage Tables:
+?
+</H3>
+<PRE>
+</PRE>
+<HR>
+&reg;1996. Traveller is a registered trademark of FarFuture Enterprises. All
+rights reserved.<BR>
+BARD Logo Copyright &copy;1996 by Lawrence C. Cox.<BR>
+</BODY></HTML>
+
+_________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: tne-rces-unsubscribe@silent-tower.org
+For additional commands, e-mail: tne-rces-help@silent-tower.org

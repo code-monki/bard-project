@@ -1,0 +1,131 @@
+Trahiy'arl Planetary Defense Fighter 
+by Norma Guye <ferrosmith@yahoo.com>
+ 
+General Info: The Trahiy'arl is a common fighter in
+the Aslan Hierate, used by poorer clans to defend
+their holdings against attack. This version is
+stripped of most of its Aslan weaponry, as Wyaroaer
+takes advantage of the Regency's need for defensive
+craft. As such it is intended to be fitted with
+Regency TL-15 computers and powerplants. The original
+Aslan version is a fat waddling toad barely capable of
+3G, and carries a little more armor than the export
+model. The Regency version retains the originals power
+shortfall, but since the fighter is intended for long
+range patrols, this is usually fixed by not running
+the contra-grav or the AEMS with everything else. The
+lack of space also requires hot-bunking by the crew on
+extend long range patrols.
+
+Another less than desirable tradeoff is the lack of a
+modern decoy or ECM system, but space limitations
+would not allow for it, and some of the more hirsute
+Aslan clans prefer the direct approach over jamming
+and diversion tactics. But the fighters 4.5 Cm of
+bonded superdense is more than enough of a defense,
+especially where squadrons of these fighters can
+operate. During the Ihatei invasions, Denebian pilots
+learned to not disregard this lethal fighter, noting
+that "to sneeze it off is a waste of ones last
+breath." The original model only mounted a single
+laser lance, and the dual mounting seems to have been
+an afterthought; otherwise the missle tubes are the
+centerpiece of this class. In addition to the four
+loaded missles, eight more are carried in the hold.
+
+Trahiy'arl's most impressive feature is its long
+endurance, as it is not overpowering enough to defeat
+larger vessels in direct combat. Rather the Aslan
+prefer to deploy them in pairs, sniping at enemy ships
+and wearing down their defenses. Another more common
+attack plan is simply to get as many of these fighters
+as one can, and simply saturate and enemy's defenses
+with as many missles as one can. Interestingly,
+Ftuakh's deal doesn't include any missles (32.4 Mcr)
+but then Wyaroaer wants to keep this sale as quiet as
+possible, and selling ordinance may piss off some of
+the more conservative males in Eakhitiyo, a clan not
+known for its warmth towards the Regency anyway.
+
+Trahiy'arl Defense Fighter
+
+General Data:
+
+Disp: 60 Tons           Hull Armor: 148
+Length: 14m             Volume: 840 cm3
+Price: 62.47 Mcr        Target Size: VS
+Config: Dome/Disc SL    Tech Level: 14/15
+Mass (L/E): 830.51/752.46
+
+Engineering:
+Power Plant: TL-15 156 MW Fusion Plant (10.64 MW
+shortfall)
+G-Rating: 5G Heplar (30 MW/G), ContraGrav (6 MW)
+G-Turns: 80 (3.75 m3 each)
+Fuel Tankage: 315m3 + 15.6 m3 for the Power Plant.
+Maint: 35
+
+Electronics:
+
+Comp: 2 TL-15 ST (0.6 MW each)
+Commo: 300,000 km Radio (Range : 10, 10 MW), 300,000
+km Maser (Range: 10, 0.3 MW)
+Avionics: TL10+, Imaging EMS, 180 KM NOE
+Sensors: PEMS TL-14 120,000 Fixed Array (Range: 4, 0.2
+MW), AEMS TL-14 180,000 Km (Range: 6, 11 MW)
+Workstations: Flight Deck with 4 Normal Workstations
+ECM/ECCM: EMM (0.84 MW)
+
+Armament:
+
+Offensive: 2 TL-14 184 MJ Laser Lance (Loc: 1; Arcs:
+1, 5.1 MW) 1 4 cell Missle Launcher (Loc: 11, Arcs:
+All) with 4 Ready Missles.
+Defensive: None
+Fire Control: 2 TL-14 Missle/Beam MFDs (one main and
+one backup) (Range: 10, 1.2 MW, DIf Mods: 5, Crew: 1)
+
+Accomodations:
+
+Life Support: Extended (0.21 MW), AG/GC (2.1 MW)
+Crew: 4 (2 Pilots, MFD Gunner, Engineer.)
+Crew Accomodation: 1 Small Stateroom (Multiple
+Occupancy)
+Cargo: 2.65 m3 plus 8 missles, Small Cargo Hatch
+Airlocks: 1
+
+Features:
+Fuel Scoops that cover 8% of the ship and can fill
+fuel tanks in 1.09 hours. No fuel purification plant
+fitted.
+
+Systems Damage Table:
+
+  MD: 3h          MFD: 2h
+  PP: 1H       LLance: 1H
+  CG: 1H        Mtube: 1H
+  LS: 1H           SR: 2h
+ ELS: 2h    All Other: 1h
+  AG: 2h          EMM: 2h
+EMMR: 1h
+
+Damage Location Table:
+
+Location         Surface          Internal
+
+1                1-8: Ant         1-10:Elec, 11-20:
+                                  Qtrs
+2-3              1-5: Ant         1-7:Qtrs, 8-20:
+                                  Laser Lance
+4-5              AL               1-5:Elec, 6-13:
+                                  LLance, 14-17:Msl
+                                  Tubes, 18-20:Elec
+6-9                               1:Msl Rld, 2-20:Hold
+10               CH               Elec
+11               EMMR             Msl Tubes
+12-15                             Hold
+16-19                             1-10:Hold, 11-
+                                  12:Eng, 13-20:Qtrs
+20                                Eng
+
+ 

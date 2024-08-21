@@ -1,0 +1,221 @@
+ 
+Morpheus Utility Ship
+by Norma Guye <ferrosmith@yahoo.com>
+
+(Note: I do not have a complete set of modules for
+this design yet. But they should be up tomorrow,
+albeit without being included in the Call To Arms
+contest. But these include a 100 ton fighter carrier
+with 4 Ramparts in minimal hangars, a trio each of
+cargo and armed fuel modules, a 100 ton assault module
+with provision for 20-40 troops and a 50 ton cutter,
+and a 100 ton armed patrol module with four additional
+barbettes and docking rings for 2 20 ton armed gigs.)
+
+Overview: In the aftermath of the Rape of Trin, the
+Regency was forced to put as many ships into frontline
+Naval or Quarantine service as it could spare. It
+became clear, however, that the emphasis upon frontier
+defense would denude other service branches of badly
+needed ships at a time when shipyards will still in
+the process of getting up to wartime mobilisation. The
+solution hit upon by several companies and contractors
+were cheap conversions of existing hulls, most notably
+TL 13-14 hulls rendered superfluous by the demanding
+requirements of the Virus War.
+
+Adamantium LRC happened to possess several hundred
+surplus Gazelles as part of an earlier remanufacturing
+program that converted these ships into newer
+Praetorian sloops. But in the wake of the RoT, the
+meson guns required for the conversion became scarce
+because of changing priorities. So the company turned
+lemons into lemonade, taking the stripped hulls, and
+installing a plug that expanded to 55 meters length,
+and converting them into modular designs.
+
+The Morpheus is intended for a variety of yeomen
+roles, utilising modular construction as a logistic
+and support "force multiplier." Easy conversion into
+different roles will enable one Morpheus to free up
+two or three other ships for patrol duty. While
+technically a rear echelon vessel, several of its
+modules are equipped to turn it into a heavy patrol
+design on short notice, enabling rapid reinforcement
+of threatened regions without the limitations of
+lengthy communication lags. Another plus of this
+design is its obvious use as a Q-ship or a merchant
+cruiser in frontier areas, as the indistinguishable
+nature of its modules make identification difficult,
+so that even the lightly armed cargo loadout can be
+percieved as a threat, and act as a deterrent to
+raids.
+
+The class utilizes mixed construction: TL-15
+powerplants, jump drives and electronics mated to
+TL-14 weapons. Most of the original ships were still
+fitted with their original armaments. These weapons
+are usually fired remotely, though local control is
+provided in case of protracted military operations.
+The ships modular layout is unusual: while intended
+for a variety of 25, 50 and 100 ton modules, space
+limitations dictate that module A is always a 50 ton
+module, leaving the remaining 100 tons according to
+the discretion of the owner/operator when not in line
+service. Module A is usually a General Operations
+module that combines cargo and passenger operations,
+and when not in RQS service the other modules are
+usually for cargo or fuel as well. In service these
+modules are either mated with other armed units, or
+replaced alltogether.
+
+Class Name: Morpheus Utility Ship
+
+General Data:
+
+Displacement: 250/400           Hull Armor: 84
+Length: 55 Meters               Volume: 3500/5600 m3
+Price: 218.93 Mcr               Target Size: S
+Configuration: Wedge SL         Tech Level: 14/15
+Mass (L/E): 3079.507 tons/2828.49 tons (Minus Modules)
+
+Engineering:
+
+Power Plant: TL-15 741 MW Fusion (One Year Duration)
+(600 MW/Hit)
+Jump Performance: 3 at 250/300 tons displacement
+(186.66 m3 per parsec, 560 m3 for J-3), 2 at 400 tons
+displacement (280 m3 per parsec, 560 m3 for J-2)
+G-Rating: 4G Heplar(150 MW/G) at 250/300 tons, 3G
+Heplar (200 mw/G) at 400 tons.
+G-Turns: 60 at 250/300 tons (15.625 m3 each), 50 at
+400 tons (18.75 m3 each)
+Fuel Tankage: 1497.5 m3+74.1 m3 for power plant
+Maint: 129
+
+Electronics:
+
+Computer: 3 TL-15 Fb (1.1 MW each)
+Commo: 2 1000 AU Masers (0.6 MW), 300,000 km Radio
+(Range: 10, 10 MW)
+Avionics: Inertial/Grav Positioning, 190 kmh NOE,
+Imaging EMS
+Sensors: PEMS 150,000 km Fixed (Range: 5, 0.15 MW),
+AEMS 300,000 km (Range:10, 15 MW)
+ECM/ECCM: EMM (3.5 MW)
+Workstations: Bridge with 6 plus 4 normal
+
+Armament:
+
+Offensive: 2 TL-14 150 MJ Laser Turrets (Loc:16,17
+Arcs: All, 4.2 MW, 0 Crew), 2 TL-14 300 MJ Laser
+Barbettes (Loc: 1,10 Arcs: 1,2,3, 8.3 MW, 0 Crew)
+
+Weapon Performance:
+
+150 MJ LT 2:1/10-31  4:1/10-31  8:1/10-31  16:1/10-31
+300 MJ LB
+
+Fire Control: 2 TL-15 300,000 km DF MFDs (Range:10,
+0.06 MW, 1 Crew each)
+
+Accomodations:
+
+Life Support: Extended (1.12 MW), AG/GC (6G, 28 MW)
+Crew: 11 (2 Maneuver, 1 Electroncs, 2 Gunnery, 4
+Engineering, 1 Maintenance, 1 Command)
+Crew Accomodations: 1 Small Stateroom (Single
+Occupancy), 5 Small Staterooms (Double Occupancy)
+Passenger Accomodations: None
+Cargo: 151 m3, 2 Small Cargo Hatches
+Airlocks: 3
+Small Craft and Launch Facilities: None
+Features: Fuel Scoops (5% of the hull, 1.07 hours to
+refill tanks), TL-15 Fuel Processing Plant (24 Hours,
+1.85 MW)
+9.41 MW surplus
+
+Systems Damage Table
+
+ MD: 1H          EMM: 1H
+ JD: 4H         EMMR: (4h)
+ PP: 3H         PEMS: 2h
+ CG: 1H          MFD: 2h
+FPP: 2H           LB: 2H
+ LS: 4H           LT: 1H
+ELS: 2H        Grple: 5H
+ AG: 1H
+SSR: 2h
+
+Hit Location Table
+
+Location         External          Internal
+
+1                1-12:Ant          1-6:LB, 7-20:Elec
+2-3                                1-8:Qtrs, 9-20:Hold
+4-5                                1-3:Elec, 4-20:Hold
+6-7                                Hold
+8-9              1-10:Module A     Module A
+10                                 1-6:LB, 7-20:Hold
+11               1-10:Mod A, CG    1-10:Module A,
+                                   11-20: Hold
+12-13                              1-10:Grapple,
+11-15:
+                                   Eng, 16-20:Hold
+14-15            1-15:Module B     Module B
+16-17            1-10:Module B     1-15:Module B,
+                                   11-13:LT, 14-20:Eng
+18-19            1-10:Module B     1-15:Module B,
+                                   16-20:Eng
+20               EMMR              1-10:Grapple,
+11-20:
+                                   Eng
+
+
+Design Worksheet:
+
+System         Volume         Mass         Power
+
+MFuel           937.5         (65.625)
+JFuel           560           (39.2)
+Armor            31.5         472.5
+MVM+IS           11.5         172.5
+JDrive          168           336
+------------------------------------------------------
+(1)            1708.5         981
+------------------------------------------------------
+LS               44.8          44.8          1.12
+AG/GC            56           112           28
+Ctrl              3.5           0.35         0.25
+EMM              70            35            3.5
+Commo             0.62          1.24        11.2
+Sensor            8.1          12.6         15.15
+------------------------------------------------------
+(2)             183.02        205.99        59.22
+------------------------------------------------------
+MDrive           60            60          600/500
+CGrav           120            80           40
+Armament        252           388           25.2
+------------------------------------------------------
+(3)             432           528          665.2
+------------------------------------------------------
+PPlant          123.5         247         <741>
+PPFuel           74.1         (5.187)     -----
+------------------------------------------------------
+(4)             197.6         247         <741>
+------------------------------------------------------
+MFD              12            12            0.12
+Comp+WS         154            10.4          3.3
+SSR             168            24
+AL                9             0.6
+Grapples        420           420            ---
+FPP              74.88        155.76         1.85
+------------------------------------------------------
+                837.88        866.5          7.17
+------------------------------------------------------
+(6)            3349          2828.49       731.59
+Cargo           151           151
+Fuel Mass                     100.017
+Total          3500          3079.507
+
+ 

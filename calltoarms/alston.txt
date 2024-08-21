@@ -1,0 +1,95 @@
+
+Alston League Series 200 Gunboat
+by Antony Farrell" <Skaran@bigpond.com>
+ 
+Well I'm a dill, though probably too late now, the original design had the
+wrong main weapon fitted! which resulted in a ship where although everything
+fit the ship was grossly overweight, the following corrects this.
+
+The Alston League, situated in the Banners Sector has just placed an order
+for twelve of these boats to supplement the larger system defence boats in
+the league navy. Built around a 400Mw laser lance and carrying two missile
+barbettes the gunboat is able to take on a variety of targets, including
+smaller warships.
+
+These vessels are now offered for sale to customers, either built locally at
+the Alston yards or licence built. Against the typical virus infected ship
+they are a potent weapon. Built using an airframe hull the gunboats can also
+be used in a ground attack role where the laser and missiles can be used to
+good effect.
+
+If there is a weakness in the design it is in the armour. In order to fit
+the large laser many compromises had to be made, these being principally in
+reduced armour. The lasers rate of fire of 200/30 minutes was also below
+that originally specified.
+
+General Data
+Displacement: 250 tons
+Hull Armor: 40
+Length: 46.25 meters
+Volume: 3,500 m3
+
+Price: 229.740794 MCr
+Target Size: S
+Configuration: Airframe Wedge
+Tech Level: 11
+Mass (Loaded/Unloaded): 3,707.0522 / 3,490.2917
+
+Engineering Data
+Power Plant: 751 Mw Fusion Power Plant, 1 year duration (50Mw/hit, 112.65 m3
+fuel, 0.9289Mw surplus)
+Jump Performance: None
+No CG Lifters
+G-Rating: 3G HEPlaR (125 MW/G)
+G-Turns: 84, 15.625 m3 fuel each
+Maint: 141
+
+Electronics
+Computer: 2xTL-11 Fibre-optic computer (0.7 Mw each)
+Commo: 1xMaser (1000 AU; 0.6 MW), Radio (300,000km; 10 Mw)
+Avionics: TL10+ Flight Avionics, TL11 Terrain Following Avionics
+Sensors: 300,000km AEMS (10 hex; 60 Mw, DF Capable), 1x90,000km PEMS Fixed
+array (3 hexes; 0.15 Mw), 1x150,000km PEMS Folding Array (5 hexes; 0.25 Mw),
+3xRunning Lights (0.0001 Mw each)
+ECM/ECCM: EMS Jammer (1 hex;50 Mw), EM Masking (3.5 Mw)
+Controls: Bridge with 8 bridge workstations, 10 normal workstations
+
+Armament
+Offensive: 1xTL-11 400-MJ Laser Lance (Loc:4/5; Arcs:1 ;222.2223 MW;0 crew)
+2xTL-11
+Missile Barbette (Loc:14,15; 0.15 Mw each;1 crew each, 5 missiles or recon
+probes each)
+
+400-MJ Laser Lance
+Short                   Medium          Long            Extreme
+10:50-1/16              20:48-1/15              40:24-1/8       80:12-1/4
+-3 Difficulty Modifiers
+
+Defensive: None
+Master Fire Directors: 1xTL-11 (3 Diff Mods; Beam 10 hex; 6.22 MW; 1
+crew)
+
+Accommodations
+Extended Life Support:(0.7 MW),
+Gravitic Compensators (2G, 17.5 MW)
+Crew: 31 (10xEngineer, 2xElectronics, 1xManeuver, 3xGunner, 2xMaintenance,
+9xShip's Troops, 4xCommand)
+Crew Accommodations: 16xSmall Stateroom (0.0005 Mw each)
+Small Craft and Launch Facilities: None
+Air Locks: 3
+Cargo: None, 47 m3
+
+Notes
+Total Fuel Tankage: 1425.15 m3 (99.7605 tons), Purification plant purifies
+total maneuver fuel in 30 hours, Fuel scoops (10% of ship surface), fills
+tanks in 1 hour.
+Crew requirements are calculated by using FFS1 Mk 1 Mod 1 crew model.
+
+Damage Charts
+Have not yet had time to finish these.
+
+Antony
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: tne-rces-unsubscribe@silent-tower.org
+For additional commands, e-mail: tne-rces-help@silent-tower.org

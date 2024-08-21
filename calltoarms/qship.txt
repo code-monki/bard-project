@@ -1,0 +1,140 @@
+ 
+Q-Ship/Fat Trader
+by "Snapping Turtle" <meancooter@yahoo.com>
+ 
+[Well, unless I've messed up bad, consider this an entry--it was done with
+Antti's excellent spreadsheet]
+
+With its lack of armament, sensors, armor and speed, perhaps the easiest and
+most attractive target for a Vampire in Regency space is the Tech-15 400 ton
+subsidized merchant [see RSB p.87 for original specs]. It is therefore
+entirely appropriate that a number of these vessels be converted to Q-ships.
+
+            In order to lull Vampires into a false sense of security it is
+important that a Q-ship match as closely as possible the specs of a hapless
+Fat Trader especially as far as power plant emissions are concerned. The
+current dearth of shipyard capacity also dictates the least amount of
+renovation possible. To these ends, the design team proposes installation of
+interior bulkheads on selected Fat Traders to create two 25-ton autoloaded
+three-tube missile bays (one pointed forward and the other pointed aft) on
+the cargo deck. Additional proposed weaponry includes a remote-fired 210 Mj
+gravitic-focussed x-ray laser turret and a manned sandcaster turret. In
+support will be installed a redundant self-contained commo suite with a
+workstation and a canary, an additional dual-capable MFD with work
+station, two normal workstations, and decoy dispensers.
+
+            The increase in crew size dictated by the modifications can be
+accommodated by a corresponding decrease in passenger capability. The
+increase in power demands dictated by combat can be accomplished by powering
+down lifters, fuel purification, and redundant electronic systems.
+
+            Operational doctrine anticipates that the Vampire will approach
+the Q-ship not vice versa. The Q-ship therefore goes about its business
+exactly as would an ordinary merchant except that all communications occur
+through the self-contained commo suite with the adjunct  canary .  When the
+canary peeps  upon the probing approach of a Vampire, RQS auxiliary
+personnel go operational; at the optimum range the vessel’s bow clamshell
+doors and rear cargo ramp open to release a deadly swarm of missiles while
+heavy laser fire simultaneously douses the intruder.
+
+            The design team believes that the consequent achievement of
+surprise will outweigh the inherent limitations of this ship class thereby
+enabling a massive increase in potential defensive platforms available to
+the Regency. While the decrease in cargo and passenger capacity for vessels
+thus outfitted will be significant, a slight boost in subsidy payments will
+be sufficient to compensate shipping companies especially in view of the
+fact that the present crisis (1140) calls for drastic measures.
+
+   <?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />                                                                                                 
+                                                                                                                                                                
+
+
+
+
+
+Q-Ship/Freighter
+
+General Data
+
+
+Displacement:400 tons                                                                                                                                           
+Hull Armor: 10                                                                                                                                                  
+                                                                                                                                                                                
+
+Length: 31.45 meters                                                                                                                                             
+Volume: 5,600 m3                                                                                                                                                                L
+
+
+Price: 110.63 MCr
+Target Size: S                                                                                                                                                  Price
+
+
+Configuration: Airframed Rounded Cylinder 1 (2:1)                                                                                                                               
+Tech Level: 15                                                                                                                                                  
+                                                                                                                                                                                
+                                                                                                                                                                                
+Mass (Loaded/Unloaded): 3,020.7 / 1,670.4                                                                                                                       
+                                                                                                                                                                                M
+
+
+Engineering Data:
+Power Plant: 301.2 MW Fusion Power Plant, 1 year duration (30.1 m3 fuel)                                                                                                        E
+Jump Performance: 1 (560 m3 fuel)
+G-Rating: 1G HEPlaR (200 MW/G), High-Efficiency CG Lifter (40 MW)
+G-Turns: 60 (82.4 using jump fuel), 25.0 m3 fuel each
+Maint: 120                                                                                                                                                                      M
+                                                                                                                                                                                M
+Electronics:                                                                                                                                                    M               M
+Computer: TL-15 Standard computer (0.55 MW), 2xTL-15 Standard computer (0.55 MW)                                                                                   ineering Da  M
+Commo: 2xMaser (1000 AU; 0.6 MW), 2xRadio (10 hex; 10 MW)                                                                                                       
+Avionics: Imaging EMS, inertial/gravitational positioning, 190 km/h NOE                                                                                         
+Sensors: AEMS (2 hex; 7 MW), PEMS (3 hex; 0.06 MW),                                                                                                                             1
+ECM/ECCM: None                                                                                                                                                  g E
+Controls: No bridge, 8 normal workstations, fire control center (2 workstations), Standard Automation                                                           g E      ertial/E
+                                                                                                                                                                                g
+Armament:
+Offensive: TL-15 210-MJ Laser Turret (Loc:0-Arcs:0;58.3 MW;No crew)
+
+                  2xTL-15 Custom Missile Bay (Loc:0-Arcs:0;0.15 MW;1 crew)                                                                                                                      A
+Defensive: TL-15 Sandcaster (Loc:0-Arcs:0; 1MW; 1 crew
+Master Fire Directors: 2xTL-15 (6 Diff Mods; 10 hex; Msl 10 hex; 1.86 MW; 1 crew)                                                                               :0-Arcs:0; 1
+
+
+
+                                   Short          Medium       Long          Extreme                                                                            
+                                                                                                                                                                
+210-MJ Laser Turret 10:1/12-36  20:1/12-36  40:1/12-36  80:1/12-36                                                                                              
+                                                                                                                                                                                
+
+
+
+Accommodations:
+Life Support: m3 LS volume (1.12 MW), Gravitic Compensators (27.96 MW)
+Grav Compensation: 6 G.
+Crew: 15 (2xManeuver, 1xElectronics, 2xEngineer, 5xGunnery, 2xFlight, 1xSteward, 2xCommand)
+Crew Accommodations: 4xLarge Stateroom (1 kW), Small Stateroom (0.5 kW)
+Passenger Accommodations: 13xSmall Stateroom (0.5 kW), 13xLow Berth (1 kW)                                                                                      
+                                                                                                                                                                                P
+Cargo:1204 m3 (86 tons), 6 Large Hatches
+Small Craft and Launch Facilities:10-ton AF grapple                                                                                                             ll Stater       C
+Air Locks: 4                                                                                                                                                    l               C
+                                                                                                                                                                                C
+Notes:
+Total Fuel Tankage: 2,090.1 m3 (149.3 tons).
+Fuel scoops (6% of ship surface), fills tanks in 1.56 hours.                                                                                                    Total F
+Fuel purification machinery (2.8MW), 22.39 hours to refine 2,090.1 m3.                                                                                          Total F         T
+Crew requirements are calculated by using 'Original FFS' crew model.                                                                                            T               
+64.5 MW power shortfall.                                                                                                                                        
+                                                                                                                                                                                
+                                                                                                                                                                                
+
+                                                                                                                                                                                
+
+
+
+
+
+
+
+
+

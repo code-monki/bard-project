@@ -1,0 +1,179 @@
+
+FAQ - Frequenly asked questions of the tne-rces@tower.ml.org list.
+
+VERSION 1.1(LAST UPDATED October 1998)
+----------------------------------------------------------------------------
+
+* 1. INTRODUCTION
+	+ What is the TNE-RCES Mailing List?
+	+ How do I subscribe to the TNE-RCES Mailing List? 
+	+ How do I post to the TNE-RCES Mailing List?
+	+ How do I unsubscribe to the TNE-RCES Mailing List?
+	+ Other Important Commands
+	+ Are there any other Traveller related lists?
+
+* 2. HOW TO GET PAST LOGS AND OTHER NET-AVAILABLE INFORMATION
+        + Using the 'GET' command
+        + FTP/WWW sites for TNE-RCES materials       
+	 
+* 3. ABBREVIATIONS AND TERMS
+	+ Commonly used abbreviations
+	   instantaneous spell? 
+ 
+* 4. CREDITS
+
+	-------------------------------------------------------------------
+1. INTRODUCTION
+
+	1.1 What is Traveller?
+	Traveller is a science fiction role-playing game.  Three editions
+	were published by Games Designer's Workshop. Upon its demise,
+	Imperium Games has published a fourth edition.
+
+	1.2 What is the TNE-RCES mailing list?
+
+	The TNE-RCES mailing list is an area where TNE-RCES enthusiasts 
+	can discuss issues related to the Traveller RPG, specifically
+	the third edition rules: Traveller the New Era and the year 1200
+	campaign setting. Topics may include rules, technical designs,
+	campaign summaries and some things totally unrelated to Traveller :). 
+	Discussion is informal and relaxed, flame wars are discouraged.
+
+	1.3 How do I subscribe to the TNE-RCES mailing list?
+
+	To subscribe to the list just send an email to
+	tne-rces-subscribe@tower.ml.org.
+
+	1.4 How do I post to the TNE-RCES Mailing List?
+
+	To post a message to the list just send your message to:
+	tne-rces@tower.ml.org
+
+	1.5 How do I unsubscribe to the TNE-RCES Mailing List?
+
+	To unsubscribe to the list just send an email to
+	tne-rces-unsubscribe@tower.ml.org.
+
+	1.6 Other important commands
+
+	HELP:
+	To retrieve the list help file just send an email to
+	tne-rces-help@tower.ml.org.
+
+	1.7. Are there any other Traveller related lists?
+	Yes there are several including the main Travller list known
+	as the Traveller Mailing List.  Instructions for signing on
+	to the TML, can be found at www.imperiumgames.com
+ 
+      -------------------------------------------------------------------
+
+* 2. HOW TO GET PAST LOGS AND OTHER NET-AVAILABLE INFORMATION
+
+      2.1 Using the 'GET' command
+
+      To get messages 123 through 145 (a maximum of 100 per request), mail:
+         <tne-rces-get.123_145@tower.ml.org>
+
+      To get an index with subject and author for messages 123-456, mail:
+         <tne-rces-index.123_456@tower.ml.org>
+
+      They are always returned as sets of 100, max 2000 per request,
+      so you'll actually get 100-499.
+
+      To receive all messages with the same subject as message 12345,
+      send an empty message to:
+         <tne-rces-thread.12345@tower.ml.org>
+
+      2.2 FTP/WWW sites for TNE-RCES materials       
+	 
+      The BARD Pages are dedicated to the Reformation Coalition:
+      www.chara.gsu.edu/~lewis/bard.html/
+        
+      Domain of Deneb covers the Regency and surrounding territory.
+      http://www.best.com/~cgriffen/traveller/deneb.shtml
+
+      A more complete listing of Traveller web pages can be found
+      at www.imperiumgames.com.  Although many of these pages are 
+      dedicated to other editions of Traveller.
+
+	-------------------------------------------------------------------
+
+* 3. ABREVIATIONS AND TERMS
+
+	3.1 Commonly used Abbreviations
+
+	RPG - Role Playing Game
+	IG -  Imperium Games
+	GDW - Games Designer's Workshop
+	DGP - Digest Group Publishing
+	BL - Brilliant Lances (Starship combat rules)
+	BR - Battle Rider (Fleet combat rules)
+	FFS - Fire Fusion  & Steel (Equipment design book)
+	RCEG - Reformation Coalition Equipment Guide
+	RSB - Regency Sourcebook
+      
+
+
+ -----------------------------------------------------------
+	Constructed by Lewis Roberts (lewis@chara.gsu.edu) based upon
+        the ROLEMASTER list FAQ which is maintained by 
+        Jason Mulligan (manwe@valimar.apana.org.au)
+	 
+	List Owner:
+		Mario Butter (tne-rces-owner@tower.ml.org)
+	
+
+--- Administrative commands for the tne-rces list ---
+
+I can handle administrative requests automatically. Please
+DO NOT SEND THEM TO THE LIST ADDRESS! If you do, I will not
+see them and other subscribers will be annoyed. Instead, send
+your message to the correct command address:
+
+
+To subscribe to the list, send a message to:
+   <tne-rces-subscribe@tower.ml.org>
+
+To remove your address from the list, send a message to:
+   <tne-rces-unsubscribe@tower.ml.org>
+
+Send mail to the following for info and FAQ for this list:
+   <tne-rces-info@tower.ml.org>
+   <tne-rces-faq@tower.ml.org>
+
+Similar addresses exist for the digest list:
+   <tne-rces-digest-subscribe@tower.ml.org>
+   <tne-rces-digest-unsubscribe@tower.ml.org>
+
+To get messages 123 through 145 (a maximum of 100 per request), mail:
+   <tne-rces-get.123_145@tower.ml.org>
+
+To get an index with subject and author for messages 123-456 , mail:
+   <tne-rces-index.123_456@tower.ml.org>
+
+They are always returned as sets of 100, max 2000 per request,
+so you'll actually get 100-499.
+
+To receive all messages with the same subject as message 12345,
+send an empty message to:
+   <tne-rces-thread.12345@tower.ml.org>
+
+The messages do not really need to be empty, but I will ignore
+their content. Only the ADDRESS you send to is important.
+
+You can start a subscription for an alternate address,
+for example "john@host.domain", just add a hyphen and your
+address (with '=' instead of '@') after the command word:
+<tne-rces-subscribe-john=host.domain@tower.ml.org>
+
+To stop subscription for this address, mail:
+<tne-rces-unsubscribe-john=host.domain@tower.ml.org>
+
+In both cases, I'll send a confirmation message to that address. When
+you receive it, simply reply to it to complete your subscription.
+
+If despite following these instructions, you do not get the
+desired results, please contact my owner at
+tne-rces-owner@tower.ml.org. Please be patient, my owner is a
+lot slower than I am ;-)
+

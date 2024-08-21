@@ -1,0 +1,163 @@
+
+Ndubehlzih System Defense Boat TL-16 Model
+by Yves SIMON <yves.simon6@free.fr>
+
+General Data
+
+ Displacement: 300 tons                                Hull Armor: 280
+ Length: 30 meters                                         Volume: 4200 m3
+ Price:258.9735 MCr                                     Target Size: S
+ Configuration: SL Disc                                 Tech Level: 15
+ Mass (Loaded/Unloaded):4393.0 / 4190.0
+
+
+
+Engineering Data
+
+     Power Plant: 2019 MW Fusion Power Plant, 1 year duration (201.9 m3
+fuel)
+     + 2x 63 MW Fusion Power Plant, 1 year duration (6.3 m3 fuel) located in
+Laser Turrets
+     Jump Performance: None
+     Jump Fuel: 0 m3
+     G-Rating: 6G HEPlaR (219.7 MW/G), Auxiliary Improved CG (30 MW)
+     G-Turns: 54, 27.5 m3 fuel each
+     Maint: 91
+
+Electronics
+
+     Computer: 2xTL-15 Fibre-optic computer (1.4 MW),
+     Commo: 2xLaser (10 hex; 0.6 MW), 4xMaser (1000AU; 0.6 MW), 2xRadio
+(1000AU; 20 MW)
+     Avionics: Imaging EMS, IGS positioning, 190 km/h NOE
+     Sensors: 2xAEMS (10 hex; 5 MW), PEMS Fixed array (4 hex; 0.1 MW), PEMS
+Antenna, 32m2 Fixed,
+     PEMS Folding Array (6 hex;.2 MW), PEMS Antenna, 120m2 Folding, 2xLadar
+(10 hex; 0.4MW)
+     ECM/ECCM:EMS Jammer (10 hex;30 MW), EM Masking (4.2 MW)
+     1200 Sensor Decoys (400 Laser, 400 AEMS, 400 PEMS)
+     Controls: Bridge with 11 bridge workstations, 13 normal workstations
+
+Armament
+
+     Offensive:30 ton Laser bay with 2000 Mj lasers. ROF=100 (-2 DMs)
+(555.56 MW; 1 crew; Arcs 1,2 & 3)
+     1xMissile Barbette (0.15 MW; 0 crew; Arcs 1,2 & 3)
+     2x TL-15 225 Mj Laser Barbettes (0 MW; 0 crew; Arcs 1,2,3 & 4)
+     Defensive:Meson Screen Generator (PV=560; 7 MW; 1 Crew)
+     Master Fire Directors: 2xTL-15 (6 Diff Mods; 10 hex; Msl 10 hex; 1.11
+MW; 1 crew)
+      Name
+Short                                Medium
+Long                                           Extreme
+      2000 Mj Laser                 10:1/36-112
+20:1/36-112             40:1/36-112
+80:1/36-112
+      225-Mj Laser Barbette     10:1/12-38
+20:1/12-38               40:1/12-38
+80:1/12-38
+
+
+      Missiles
+      Type                                        Guidance
+Mass           MCr               Hits     Damage
+Range                 Sensor    Signatures           G-Turns
+      TL16 HEPlaR KE (HE)           Semi-Ind         3.5813
+0.0776            1         Depend on Speed  Contact (+4 Diff) 3P 10L
++4/+3/+4/+3/+1 12/105
+      TL16 HEPlaR Proximity Nuc   Semi-Ind         2.6481
+1.0522            1         Depend on Size     Close(+3 Diff)      3P 10L
++4/+3/+4/+3/+1 12/365
+      TL16 HEPlaR 500kt DetLaser Semi-Ind         2.848
+1.2549            1d6     1/25-79                  0
+3P 10L   +4/+3/+4/+3/+1 12/330
+      TL16 HEPlaR 500kt DetLaser Semi-Ind         3.1431
+12.0593            1d6     1/25-79                  1
+3P 10L   +4/+3/+4/+3/+1 12/285
+
+Accommodations
+
+     Life Support: Extended (0.84 MW)
+     Gravitic Compensation: 6Gs (21 MW)
+     Crew:24 (1xManeuver, 3xElectronics, 13xEngineer, 4xGunnery, 3xCommand)
+     Crew Accommodations: 15xSmall Stateroom (0.5 kW)
+     Passenger Accomadation: None
+     Cargo: 50 m3 1 Small Cargo Hatch, 5 missiles in magazine
+     Small Craft and Launch Facilities: None
+     Air Locks: 3
+
+Notes
+
+One small stateroom is provided for crew's recreational use.Total Fuel
+Tankage: 1727.4 m3 (120.9 tons)
+Fuel scoops (10% of ship surface), fills tanks in 1.03 hours
+Fuel purification machinery (1.0MW), 8.6 hours to refine 1727.4 m3.
+Only 1 Radio ,1 AEMS & 1 Ladar are powered during combat,
+All 4 Maser & 2 Laser Comm are powered during combat.
+Navigation Aid, NOE Avionics, Flight Avionics & Fuel Purification Plant
+cannot be powered during combat.
+Both Laser Barbettes are equiped with a small fusion powerplant and thus are
+not dependant on the central powerplant.
+
+Damage Tables
+
+ Area       Surface Hit                          Internal Explosion
+ 1            Ant 1-10                             Elect
+ 2-3         Ant 1-14                             LBay 1-18/ Elec 19-20
+ 4-5         Ant 1-14                             MB 1-4/ Elect 5-17/ Hold
+18-20
+ 6-7          -                                         LB 1-8/ Quarters
+9-20
+ 8-9         EMMR 1-6                         Hold
+ 10           AL 1                                  Quarters
+ 11             -                                       Hold
+ 12-13        -                                      Quarters 1-9/ Hold
+10-20
+ 14-15        -                                      Hold
+ 16-17        -                                      Hold
+ 18-19       AL 1/ Decoy Dispenser 2  Eng 1-16/ Hold 17-20
+ 20             -                                       Eng
+
+
+
+Systems
+Elec                            Quarters
+Engineering                        Surface
+AEMS-2x2h               AG-1H
+CG-1H                                AEMS Ant-2x1h
+Decoys-1h                  LS-22H
+FPP-1H                               AL-3x1h
+EMM-1H                   SSR-15x2h
+MD-2H                               Decoys Disp-3h
+EMS Jammer-2h
+PP-4H                                EMM Rad-4h
+Ladar-2x1h
+Hold
+PEMS Ant-1h , 2h
+Laser-2x1h
+Cargo-1H
+Radio Ant-2x1h
+Maser-4x1h               Fuel-1H
+MFD-2x1H
+Radio-2x1h
+
+Weapon Mounts
+LB-2x2H                 MB-1H                   Screen-1H
+LBay-8H
+
+Notes:
+The 2 first missiles were created using an article from:
+Bertil Jonell           d9bertil@dtek.chalmers.se
+Guy Garnett             wildstar@moeng2.morgan.edu
+They are all TL 16, HEPlaR, EMM masked & use a small passive EMS to locate
+their target after reaching a given
+area.
+
+For the 'look' of the ship, it is like the Defiant from Deep Space Nine
+(just smaller).
+
+Firing Arcs are:
+LBay    1,2 & 3
+MB      1,2 & 3
+LB        1,2,3 & 4
+
